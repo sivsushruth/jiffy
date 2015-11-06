@@ -4,7 +4,8 @@
     {registered, []},
     {applications, [kernel, stdlib]},
 
-    {maintainers, ["Paul J. Davis"]},
+    {pkg_name, barrel_jiffy},
+    {maintainers, ["Benoit Chesneau"]},
     {licenses, ["BSD"]},
-    {links, [{"Github", "https://github.com/davisp/jiffy"}]}
+    {links, [{"Github", "https://github.com/barrel-db/jiffy"}]}
 ]}.
